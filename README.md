@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Levi-Chyrek
 - 👀 I’m interested in ...
--PHP
--SQL
--JS
--CSS
--HTML
+- PHP
+- SQL
+- JS
+- CSS
+- HTML
 - 🌱 I’m currently learning ...
 - // PHP
 - 💞️ I’m looking to collaborate on ...
